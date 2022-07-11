@@ -1,6 +1,7 @@
 # GhoulsGoblinsGhosts_ML
 Kaggle's competition: Four different approaches to predict in which class the given data(monsters) belong
 The relevant competition given as a project from University of Ioannina: https://www.kaggle.com/c/ghouls-goblins-and-ghosts-boo
+/r
 First notebook's approach : K-nn means algorithm
 Second notebook's approach : Naive Bayes classifier
 Third notebook's approach : Neural Networks
